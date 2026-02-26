@@ -2,3 +2,7 @@ pandas
 numpy
 matplotlib
 scikit-learn
+torch
+transformers
+tqdm
+sentencepiece
