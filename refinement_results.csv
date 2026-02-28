@@ -1,0 +1,4 @@
+source_trial,batch_size,max_length,learning_rate,weight_decay,warmup_ratio,gradient_clip_norm,lambda_tax,num_epochs,early_stopping_patience,dev_f1_tuned,dev_precision_tuned,dev_recall_tuned,best_threshold,dev_f1_at_0_5,best_epoch
+trial_022,16,192,3e-05,0.01,0.1,0.8,0.5,8,3,0.5217391304347827,0.44366197183098594,0.6331658291457286,0.21,0.5168539325842696,6
+trial_010,16,256,3e-05,0.01,0.06,1.0,0.7,8,3,0.5117187499999999,0.4185303514376997,0.6582914572864321,0.06,0.48660714285714285,8
+trial_020,8,192,1e-05,0.0,0.06,0.8,0.5,8,3,0.5,0.39762611275964393,0.6733668341708543,0.23,0.4870259481037924,3
