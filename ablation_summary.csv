@@ -1,0 +1,3 @@
+run_name,lambda_tax,best_threshold,dev_precision_tuned,dev_recall_tuned,dev_f1_tuned,best_epoch,delta_vs_main_f1
+main_multitask,0.5,0.21,0.44366197183098594,0.6331658291457286,0.5217391304347827,6,0.0
+ablation_binary_only,0.0,0.51,0.3177570093457944,0.5125628140703518,0.39230769230769225,1,-0.12943143812709046
